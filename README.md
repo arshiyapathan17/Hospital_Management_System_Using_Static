@@ -55,6 +55,8 @@ Used to display common hospital-level information.
 
 ## ▶ How to Run
 1. Open your Java IDE (NetBeans / IntelliJ / Eclipse).
-2. Create a new Java project. save as Main.java 
-3. Create a file named:
+2. Create a new Java project. 
+4. Create a file named:Main.java
+
+
 
